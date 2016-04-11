@@ -1,0 +1,4 @@
+deb http://mirror.yandex.ru/debian jessie main
+deb http://mirror.yandex.ru/debian jessie-updates main
+deb http://security.debian.org jessie/updates main
+deb http://avreg.linuxdvr.ru/repos/6.1/debian/ jessie main contrib non-free
